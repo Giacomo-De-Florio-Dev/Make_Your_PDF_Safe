@@ -1,0 +1,2 @@
+import mainpage
+mainpage.mainpage()
