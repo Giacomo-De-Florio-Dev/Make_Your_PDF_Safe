@@ -11,4 +11,7 @@ This image can be found [here](https://www.freepik.com/free-vector/safe-concept-
 
 Note: To handle and operate with PDF files, this program uses the [PyPDF2](https://pypi.org/project/PyPDF2/) library.
 
+---
+To download the latest version of this program, go [Here](https://github.com/Giacomo-De-Florio-Dev/Make_Your_PDF_Safe/releases/latest).
+
 # This program was developed by Giacomo-De-Florio-Dev.
