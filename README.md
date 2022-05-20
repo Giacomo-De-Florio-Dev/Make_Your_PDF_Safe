@@ -1,17 +1,28 @@
-# Make Your PDF Safe - MYPDFS
-"Make Your PDF Safe" or MYPDFS is a program that allows you to protect your PDFs with a password. This way your data will remain safe.
+# MYPDFS - Make Your PDF Safe
+## Program developed by Giacomo-De-Florio-Dev
+This program will allow you to protect your PDF files with a password.
+Every time someone tries to access the protected file, they will have to enter the password you set.
 
+## What the program does and what it DOES NOT do.
+[x] Sets a password to a copy, created when proceeding with security, of the PDF file
 
+[x] Allows you to choose the PDF file and its destination through explorer (via tkinter.filedialog)
 
+[x] All procedures are carried out through a fresh, elegant and clear graphical interface.
 
-# Note
-Note: The image known in the program as mainp_img.png was previewed from the freepik.com site. 
-This image was created by the user storiset. Below, the link to his freepik page: https://www.freepik.com/stories.
-This image can be found [here](https://www.freepik.com/free-vector/safe-concept-illustration_5464054.htm#query=safe&position=35&from_view=author).
+[x] Before proceeding with the protection of your PDF file, you will need to repeat the password 2 times.
 
-Note: To handle and operate with PDF files, this program uses the [PyPDF2](https://pypi.org/project/PyPDF2/) library.
+[] DOES NOT: Encrypt the PDF file directly.
+
+[] NOT: Use proprietary libraries to handle PDF. (1)
+
+[] DOES NOT: Remove the password from the protected file in any way. (2)
 
 ---
-To download the latest version of this program, go [Here](https://github.com/Giacomo-De-Florio-Dev/Make_Your_PDF_Safe/releases/latest).
+(1) : The program uses PyPDF2 to handle PDF files. The library is set up in the program, so no additional installation is required.
 
-# This program was developed by Giacomo-De-Florio-Dev.
+(2) : Just for the moment. I'm working on adding this feature.
+
+## System requirements
+- It is necessary to have Python 3 (Or Later) installed on the device.
+- Available only for windows (For the moment).
