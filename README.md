@@ -19,7 +19,7 @@ Every time someone tries to access the protected file, they will have to enter t
 
 ## System requirements
 - It is necessary to have Python 3 (Or Later) installed on the device.
-- Available only for windows (For the moment).
+- **Available only for Microsoft® Windows (For the moment).**
 
 ## Credits
 - Images: freepik.com, from the user [@storyset](https://www.freepik.com/stories)
