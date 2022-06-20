@@ -22,6 +22,11 @@ Every time someone tries to access the protected file, they will have to enter t
 - It is necessary to have Python 3 (Or Later) installed on the device.
 - **Available only for Microsoft® Windows (For the moment).**
 
+## Usage
+Download the program from [here](https://github.com/Giacomo-De-Florio-Dev/Make_Your_PDF_Safe/releases/latest) and unzip the archive.
+After that, execute the \_\_main\_\_.py file.
+You can also put the program folder in C:\Users\username\AppData\Roaming, or in a folder at your choise and creade a desktop shortcut.
+
 ## Credits
 - Images: freepik.com, from the user [@storyset](https://www.freepik.com/stories)
 - PDF Management: [PyPDF2](https://pypi.org/project/PyPDF2/)
