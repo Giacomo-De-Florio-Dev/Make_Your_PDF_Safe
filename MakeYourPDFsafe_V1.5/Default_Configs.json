@@ -1,0 +1,10 @@
+{
+    "Platform_Check_System": {
+        "Enable_The_Platform_Check": true,
+        "Which_Platforms_Can_Execute_This_Program": ["Windows"]
+    },
+
+    "App Status": {
+        "First_Start_Mode": false
+    }
+}
